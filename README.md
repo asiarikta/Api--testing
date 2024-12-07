@@ -24,12 +24,6 @@ Summary:
 
 A total of 5 Test Scripts and 2 assertions were done. All of them passed with 0 failed tests and 0 skipped tests.
 ![Capture](https://github.com/user-attachments/assets/445d1672-b93a-4fa4-bf46-9067148f526e)
-![2](https://github.com/user-attachments/assets/a12b7753-29dc-4329-828e-1f65c62da363)
-
-
-
-
-
 
 Requirements
 
