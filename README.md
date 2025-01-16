@@ -1,11 +1,7 @@
 <<<<<<< HEAD
-# Api--testing
+# Api-testing
 this project created by postman . report created in html and html extra 
 =======
-# Api-testing
-This project created by postman . report created in html and html extra
-
-
 
 Introduction
 
